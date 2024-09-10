@@ -1,0 +1,16 @@
+.registration-form{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+
+
+button{
+    background-color: aliceblue;
+    color: beige;
+    font-style: bold;
+    width: 80px;
+    border-radius: 3px;
+
+}
